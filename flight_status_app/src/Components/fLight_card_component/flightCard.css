@@ -1,0 +1,23 @@
+.card{
+    margin:2%;
+    width:450px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    color:#eee;
+}
+
+.left{
+    padding-left: 2em;
+    width:30%
+}
+.right{
+    width:70%;
+    padding-left: 2em;
+    font-size:0.81em;
+}
+.right p span{
+    font-weight: bold;
+
+}
